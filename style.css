@@ -1,0 +1,62 @@
+.body{
+    background-color: azure;
+}
+.one{
+    background-color: honeydew; 
+    border-radius: 15px;  
+    height: 300px; 
+    width: 600px;
+    margin-left: 300px;
+}
+.one1{
+    background-color: red;
+
+}
+.team{
+    margin-top: 100px;
+    margin-left: 500px;
+}
+.two{
+    background-color: honeydew; 
+    border-radius: 15px;  
+    height: 300px; 
+    width: 600px;
+}
+.sup{
+    margin-top: 100px;
+    margin-left: 500px;
+}
+.karma{
+    margin-top: 100px;
+    margin-left: 500px;
+}
+.three{
+    background-color: honeydew; 
+    border-radius: 15px;  
+    height: 300px; 
+    width: 600px;
+    margin-left: 300px;
+    margin-top: 50px;
+}
+.four{
+    background-color: honeydew; 
+    border-radius: 15px;  
+    height: 300px; 
+    width: 600px;
+    margin-left: 40px;
+
+}
+.align{
+    display: flex;
+    align-items: row;
+}
+.cal{
+    margin-top: 100px;
+    margin-left: 500px;
+}
+.text{
+    margin-left: 300px;
+}
+.p{
+    margin-left: 60px;
+}
